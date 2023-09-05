@@ -116,14 +116,14 @@ main {
 article h1 {
     color: var(--cor4);
     font-family: var(--fonte-android);
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 
 article h2 {
     background-image: linear-gradient(to right, #48c37986, transparent);
     color: #1a5c38d3;
     font-family: var(--fonte-android);
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 
 aside{
