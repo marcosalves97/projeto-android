@@ -116,14 +116,14 @@ main {
 article h1 {
     color: var(--cor4);
     font-family: var(--fonte-android);
-    font-size: 1.2em;
 }
 
 article h2 {
     background-image: linear-gradient(to right, #48c37986, transparent);
     color: #1a5c38d3;
     font-family: var(--fonte-android);
-    font-size: 1.1em;
+    font-size: 1.2em;
+    padding-left: 5px;
 }
 
 aside{
@@ -143,9 +143,6 @@ aside > h3 {
     padding: 5px;
     margin: -10px -10px 0px -10px;
     border-radius: 10px 10px 0px 0px;
-}
-aside > p {
-    padding: 0px 5px;
 }
 
 main img {
